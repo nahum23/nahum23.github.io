@@ -2,13 +2,16 @@
 
 ---
 
-### Category Name 1 
+### Resume 
+
+[Resume](/pdf/Nahum_resume.pdf)
+
+---
+
+### Presentations
 
 [Instacart Data Analysis](/pdf/InstacartDataAnalysis.pdf)
 <img src="images/instacartLogo.png?raw=true"/>
-
----
-[Resume](/pdf/Nahum_resume.pdf)
 
 ---
 [Project 3 Title](http://example.com/)
@@ -16,7 +19,7 @@
 
 ---
 
-### Category Name 2
+### Python Notebooks
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
