@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Instacart Data Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[NBA MVP race](/pdf/Nahum_resume.docx)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
