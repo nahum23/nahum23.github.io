@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Instacart Data Analysis](/sample_page)
+[Instacart Data Analysis](/pdf/Instacart Data Analysis.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
