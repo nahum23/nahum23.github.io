@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Instacart Data Analysis](/pdf/Instacart Data Analysis.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Instacart Data Analysis](/pdf/InstacartDataAnalysis.pdf)
+<img src="images/instacartLogo.png?raw=true"/>
 
 ---
 [Resume](/pdf/Nahum_resume.pdf)
