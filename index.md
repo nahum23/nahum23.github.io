@@ -8,8 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[NBA MVP race](/pdf/Nahum_resume.docx)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Resume](/pdf/Nahum_resume.pdf)
 
 ---
 [Project 3 Title](http://example.com/)
