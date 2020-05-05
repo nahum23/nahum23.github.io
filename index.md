@@ -2,9 +2,7 @@
 
 ---
 
-### Resume 
-
-[Resume](/pdf/Nahum_resume.pdf)
+### [Resume](/pdf/Nahum_resume.pdf)
 
 ---
 
