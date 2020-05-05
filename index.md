@@ -8,7 +8,7 @@
 
 ### Presentations
 
-[Instacart Data Analysis](/pdf/InstacartDataAnalysis.pdf)
+[Instacart Data Analysis](/pdf/InstacartDataExploration.pdf)
 <img src="images/instacartLogo.png?raw=true"/>
 
 ---
