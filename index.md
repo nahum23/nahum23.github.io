@@ -19,10 +19,10 @@
 
 ### Python Notebooks
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Instacart Data Analysis](/Notebooks/InstacartNotebook.ipynb)
+- [Facial Recognition using Generative Adversarial Networks](http://example.com/)
+- [Determining NBA Player Position using Neural Network](/Notebooks/NBANeuralNet.ipynb)
+- [Should Derrick Rose have won MVP? ](/Notebooks/DerrickRoseMVP)
 - [Project 5 Title](http://example.com/)
 
 ---
