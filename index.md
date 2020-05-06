@@ -20,7 +20,7 @@
 ### Python Notebooks
 
 - [Instacart Data Analysis](/Notebooks/InstacartNotebook.ipynb)
-- [Facial Recognition using Generative Adversarial Networks](http://example.com/)
+- [Facial Recognition using Generative Adversarial Networks](https://github.com/nahum23/SOC_Bypassing_Facial_Recognition)
 - [Determining NBA Player Position using Neural Network](/Notebooks/NBANeuralNet.ipynb)
 - [Should Derrick Rose have won MVP? ](/Notebooks/DerrickRoseMVP.ipynb)
 - [Project 5 Title](http://example.com/)
