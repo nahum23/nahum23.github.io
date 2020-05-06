@@ -22,7 +22,7 @@
 - [Instacart Data Analysis](/Notebooks/InstacartNotebook.ipynb)
 - [Facial Recognition using Generative Adversarial Networks](http://example.com/)
 - [Determining NBA Player Position using Neural Network](/Notebooks/NBANeuralNet.ipynb)
-- [Should Derrick Rose have won MVP? ](/Notebooks/DerrickRoseMVP)
+- [Should Derrick Rose have won MVP? ](/Notebooks/DerrickRoseMVP.ipynb)
 - [Project 5 Title](http://example.com/)
 
 ---
