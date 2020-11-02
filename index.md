@@ -2,7 +2,7 @@
 
 ---
 
-### [Resume](/pdf/Nahum_resume.pdf)
+### [Resume](/pdf/MehereteResume.pdf)
 
 ---
 
