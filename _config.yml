@@ -3,8 +3,6 @@ logo: "/images/Nahum_Grad-013.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Recent Masters Graduate in Data Science Looking for roles and opportunities in Data Science, Machine Learning, Data Visualization, and Data Analytics. Well versed in Python, R, and C++. Proficient in using Sci-kitLearn, Matplotlib, Keras, Tensorflow, Pandas, and Pytorch.
   <br><br>
-  Passionate about finidng insights within data to help steer technology, health, and policy in a direction that benefits the general public.
-  <br><br>
   <a href="https://www.linkedin.com/in/nahum-meherete/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
